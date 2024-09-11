@@ -1,0 +1,14 @@
+.header nav a {
+    margin-right: 30px;
+}
+.user{
+    border: 2px solid tomato;
+    
+    padding: auto;
+    margin: 20px;
+    
+}
+nav a.active{
+    text-decoration: underline;
+    color: peru;
+}
